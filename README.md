@@ -83,6 +83,16 @@ These eatures align with known risk factors from medical studies, making them st
       * Interpretability of the model for healthcare professionals
       * Usability in a real-world preventive healthcare setting
 
+Information about the dataset
+link: https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits
+size = 100000 rows
 
 
+Group members and roles
+IT24104083 - Wijesinghe P.H.G.T.P -  Handling Missing data
+IT24103606 - Rathnayake R.M.P.T - Categorical feature encoding
+IT24101992 - Vaishmitha M - Numerical Feature scaling
+IT24103081 - Rathnayake M.D.Y.B - Dimensionality reduction and feature selection
+IT24610808 - Ekanayake E.W.M.W.W.T.D.B - Feature Engineering
+IT24102905 - Gunawardana B.P.P.G.D.S - Outlier Removal
 
